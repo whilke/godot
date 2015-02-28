@@ -1,0 +1,27 @@
+{
+  "name": "test_tree_1",
+  "starting_text": ".....",
+  
+ "choices": [
+		{
+			"conditions": "",
+			"text": "Can I eat your brain?",
+			"callback": "",
+			"target": "res://dialogs/dialog_test_2.json"
+		},
+
+		{
+			"conditions": "",
+			"text": "Urrrrg?",
+			"callback": "",
+			"target": "res://dialogs/dialog_test_3.json"
+		},
+		
+		{
+			"conditions": "",
+			"text": "Arrrgg....",
+			"callback": "",
+			"target": "res://dialogs/dialog_test_4.json"
+		}
+  ]
+}

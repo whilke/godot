@@ -1,0 +1,20 @@
+{
+  "name": "test_tree_1",
+  "starting_text": "Will it hurt?",
+  
+  "choices": [
+		{
+			"conditions": "",
+			"text": "Of course not",
+			"callback": "",
+			"target": "res://dialogs/dialog_test_2.json"
+		},
+
+		{
+			"conditions": "",
+			"text": "Arrrggg...",
+			"callback": "",
+			"target": "res://dialogs/dialog_test_3.json"
+		}
+  ]
+}

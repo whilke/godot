@@ -1,0 +1,19 @@
+{
+  "name": "test_tree_1",
+  "starting_text": "What?",
+  
+  "choices": [
+		{
+			"conditions": "Urrrrg?",
+			"text": "Sounds great",
+			"callback": "",
+			"target": "res://dialogs/dialog_test_3.json"
+		},
+		{
+			"conditions": "",
+			"text": "...",
+			"callback": "",
+			"target": "back"
+		}
+  ]
+}
